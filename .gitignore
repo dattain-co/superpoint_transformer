@@ -166,4 +166,4 @@ src/dependencies/
 *.cmake
 *__pycache__*
 *.ipynb*
-notebooks/*
+# notebooks/*

@@ -182,3 +182,21 @@ ValueError: API key must be 40 characters long, yours was 120
 [2025-03-14 03:47:23,398][src.datasets.base][INFO] - Preprocessed data can be found at: "/home/ubuntu/superpoint_transformer/data/kitti360/processed/<stage>/59c0bce7206dc4913f9401a3793df091"
 [2025-03-14 03:47:23,420][src.datasets.base][INFO] - Dataset hash: "59c0bce7206dc4913f9401a3793df091"
 [2025-03-14 03:47:23,420][src.datasets.base][INFO] - Preprocessed data can be found at: "/home/ubuntu/superpoint_transformer/data/kitti360/processed/<stage>/59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,472][__main__][INFO] - Starting testing!
+[2025-03-15 01:39:25,607][src.datasets.base][INFO] - Dataset hash: "59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,608][src.datasets.base][INFO] - Preprocessed data can be found at: "/home/ubuntu/superpoint_transformer/data/kitti360/processed/<stage>/59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,637][src.datasets.base][INFO] - Dataset hash: "59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,638][src.datasets.base][INFO] - Preprocessed data can be found at: "/home/ubuntu/superpoint_transformer/data/kitti360/processed/<stage>/59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,660][src.datasets.base][INFO] - Dataset hash: "59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,660][src.datasets.base][INFO] - Preprocessed data can be found at: "/home/ubuntu/superpoint_transformer/data/kitti360/processed/<stage>/59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,760][src.datasets.base][INFO] - Dataset hash: "59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,760][src.datasets.base][INFO] - Preprocessed data can be found at: "/home/ubuntu/superpoint_transformer/data/kitti360/processed/<stage>/59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,790][src.datasets.base][INFO] - Dataset hash: "59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,790][src.datasets.base][INFO] - Preprocessed data can be found at: "/home/ubuntu/superpoint_transformer/data/kitti360/processed/<stage>/59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,812][src.datasets.base][INFO] - Dataset hash: "59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:39:25,812][src.datasets.base][INFO] - Preprocessed data can be found at: "/home/ubuntu/superpoint_transformer/data/kitti360/processed/<stage>/59c0bce7206dc4913f9401a3793df091"
+[2025-03-15 01:42:02,549][__main__][INFO] - Best ckpt path: /home/ubuntu/superpoint_transformer/logs/train/runs/2025-03-14_01-00-38/checkpoints/epoch_089.ckpt
+[2025-03-15 01:42:02,554][src.utils.utils][INFO] - Closing loggers...
+[2025-03-15 01:42:02,554][src.utils.utils][INFO] - Closing wandb!
+[2025-03-15 01:42:16,269][src.utils.utils][INFO] - Output dir: /home/ubuntu/superpoint_transformer/logs/train/runs/2025-03-14_01-00-38
+[2025-03-15 01:42:16,269][src.utils.utils][INFO] - Retrieved metric value! <val/pq=46.82966613769531>
