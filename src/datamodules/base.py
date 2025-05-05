@@ -154,6 +154,7 @@ class BaseDataModule(LightningDataModule):
         However, do not use it to assign state (e.g. self.x = y) because
         it will not be preserved outside this scope.
         """
+        print(self.hparams.data_dir)
         self.dataset_class(
             self.hparams.data_dir, stage=self.train_stage,
             transform=self.train_transform, pre_transform=self.pre_transform,
